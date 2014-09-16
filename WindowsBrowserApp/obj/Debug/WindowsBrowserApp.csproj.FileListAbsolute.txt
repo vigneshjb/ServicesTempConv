@@ -1,0 +1,9 @@
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\bin\Debug\WindowsBrowserApp.exe.config
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\bin\Debug\WindowsBrowserApp.exe
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\bin\Debug\WindowsBrowserApp.pdb
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\obj\Debug\WindowsBrowserApp.csprojResolveAssemblyReference.cache
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\obj\Debug\WindowsBrowserApp.Form1.resources
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\obj\Debug\WindowsBrowserApp.Properties.Resources.resources
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\obj\Debug\WindowsBrowserApp.csproj.GenerateResource.Cache
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\obj\Debug\WindowsBrowserApp.exe
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\WindowsBrowserApp\obj\Debug\WindowsBrowserApp.pdb

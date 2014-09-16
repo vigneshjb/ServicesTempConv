@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConvWCFServ", "TempConvWCFServ\TempConvWCFServ.csproj", "{4CCEA676-43A1-408A-B844-6E573652DD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConvForm", "TempConvForm\TempConvForm.csproj", "{D72CCBEE-AB88-47EB-A0FF-71CC60792A20}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4CCEA676-43A1-408A-B844-6E573652DD24} = {4CCEA676-43A1-408A-B844-6E573652DD24}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsBrowserApp", "WindowsBrowserApp\WindowsBrowserApp.csproj", "{BF40FCF8-611A-457E-B68C-EB5C3F3745CB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4CCEA676-43A1-408A-B844-6E573652DD24} = {4CCEA676-43A1-408A-B844-6E573652DD24}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TempConvWeb", "http://localhost:49513", "{F3F57684-6AC5-45EB-9D67-0434DC75540A}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49513"
+		Debug.AspNetCompiler.PhysicalPath = "TempConvWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49513\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49513"
+		Release.AspNetCompiler.PhysicalPath = "TempConvWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49513\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "TempConvWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{4CCEA676-43A1-408A-B844-6E573652DD24} = {4CCEA676-43A1-408A-B844-6E573652DD24}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CCEA676-43A1-408A-B844-6E573652DD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCEA676-43A1-408A-B844-6E573652DD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCEA676-43A1-408A-B844-6E573652DD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCEA676-43A1-408A-B844-6E573652DD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72CCBEE-AB88-47EB-A0FF-71CC60792A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72CCBEE-AB88-47EB-A0FF-71CC60792A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72CCBEE-AB88-47EB-A0FF-71CC60792A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72CCBEE-AB88-47EB-A0FF-71CC60792A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF40FCF8-611A-457E-B68C-EB5C3F3745CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF40FCF8-611A-457E-B68C-EB5C3F3745CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF40FCF8-611A-457E-B68C-EB5C3F3745CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF40FCF8-611A-457E-B68C-EB5C3F3745CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F57684-6AC5-45EB-9D67-0434DC75540A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F57684-6AC5-45EB-9D67-0434DC75540A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F57684-6AC5-45EB-9D67-0434DC75540A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F57684-6AC5-45EB-9D67-0434DC75540A}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

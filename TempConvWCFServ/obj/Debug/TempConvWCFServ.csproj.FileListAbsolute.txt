@@ -1,0 +1,6 @@
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\TempConvWCFServ\bin\TempConvWCFServ.dll.config
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\TempConvWCFServ\bin\TempConvWCFServ.dll
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\TempConvWCFServ\bin\TempConvWCFServ.pdb
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\TempConvWCFServ\obj\Debug\TempConvWCFServ.csprojResolveAssemblyReference.cache
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\TempConvWCFServ\obj\Debug\TempConvWCFServ.dll
+c:\users\vignesh\documents\visual studio 2013\Projects\TempConvWCFServ\TempConvWCFServ\obj\Debug\TempConvWCFServ.pdb
